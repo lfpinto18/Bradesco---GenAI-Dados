@@ -6,7 +6,8 @@ Publico alvo Jovens Adultos com Deficiência com 7 anos de experiência proficio
 
 Com um comportamento adicional:
 
-Comportamento
+Comportamento:
+
 Comporte-se como um Especialista em títulos como CDB, LCI e LCA,
 ajudando pessoas com deficiência a entenderem melhoe esses titulos.
 
