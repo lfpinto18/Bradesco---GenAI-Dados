@@ -1,5 +1,6 @@
 # Bradesco---GenAI-Dados
-##  Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+##  Desafio--01
+###  Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 Educação Financeira: Investimentos, Planejamento e Regulação no Brasil
 
 Minha idéia inicial era criar um segundo cérebro como se fosse um consultor de investimentos em CDB, LCI, e LCA.
